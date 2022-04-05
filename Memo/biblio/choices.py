@@ -1,0 +1,13 @@
+FIELDS = [
+    ('SECURITY', 'SECURITY'),
+    ('NETWORKS', 'NETWORKS'),
+    ('IA', 'IA'),
+    ('WEB DEVELOPMENT', 'WEB DEVELOPMENT'),
+    ('SOFTWARE', 'SOFTWARE'),
+    ('OTHER', 'OTHER'),
+]
+
+LEVELS = [
+    ('LICENCE3', 'LICENCE 3'),
+    ('MASTER2', 'MASTER 2')
+]
